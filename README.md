@@ -2,6 +2,6 @@
 
 In the project directory, run:
 
-### node curryPointsNarration.js
+### `node curryPointsNarration.js`
 
 
